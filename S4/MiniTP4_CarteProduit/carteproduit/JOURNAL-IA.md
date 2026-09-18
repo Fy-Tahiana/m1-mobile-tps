@@ -1,0 +1,3 @@
+- L'IA propose une variante Row (bloc texte à gauche, prix à droite) — techniquement correcte.
+- Je garde ma Column : carte verticale + bouton pleine largeur = lisibilité, et l'ordre du code suit l'ordre de lecture.
+- La variante n'apportait ici ni gain visuel ni gain de code : la juger, ce n'est pas l'adopter.
