@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id btnPartager
+id btnSecond
+layout activity_main
+layout activity_second
+string app_name
+string btn_partager
+string btn_second
+string titre_main
+string titre_second
+style Theme.CycleDeVie

@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\660de9dfbb5b0391f8b87e49164d40a6\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\86e9641309b12cbbcdbad5b73ec59155\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\df47e1a16950a319e8d7a5330dad01e2\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\0c35e3cbc00afd7d809db69b7ab27e78\transformed\activity-1.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\98c1e25957a9fac560e6ea341ecab0cf\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\1f570618cad5eb398ce3613ec82b4093\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\72d2bc2a5c489fe079223cbb07807c1f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\b1137aef53c91690241c3f7b4682f498\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\c0138bc7317894d0de176b51411097da\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\490c3b2569760da3d215ce470d5c02af\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\7276c56258c5facf2d7c8caa3abeed3b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\47b62bc0f77bd5e831fbd70829b5d826\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\35d6210ef098b34bdf7784c5d17f7c16\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\6ce36b33a146adf8efabe4fe275369b9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8eb05e8261aedd25dbbb0aa3cd22317e\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8523e9a377505c5315fe0fa90ad03d08\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\cff078b143cb48fb0612ea3247ef4461\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\36809f5431df3dc58ae43f936b6cea5b\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\5fe503ab4aa6fba6ce9b6522dc3703ec\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\3490bc5f0cda03bc05b763d2c7acc76b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\e1dc562589a7e7b23f9ce7452fe34dac\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\4263cdeeed8ab8b71b55ab55b65a3ab6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\eb2517c4ba28fe75172c7e7063794b4d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\2c6e846510d573242e9b80cdd3e2d664\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8fac4a24cb45172d4116345c219d8c87\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:4:5-21:19
+INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:4:5-21:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\4263cdeeed8ab8b71b55ab55b65a3ab6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\4263cdeeed8ab8b71b55ab55b65a3ab6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\eb2517c4ba28fe75172c7e7063794b4d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\eb2517c4ba28fe75172c7e7063794b4d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:5:9-41
+	android:theme
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:6:9-48
+activity#mg.itu.cycledevie.MainActivity
+ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:8:9-15:20
+	android:exported
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:10:13-36
+	android:name
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:9:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:11:13-14:29
+action#android.intent.action.MAIN
+ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:13:17-77
+	android:name
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:13:27-74
+activity#mg.itu.cycledevie.SecondActivity
+ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml:18:13-43
+uses-sdk
+INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\660de9dfbb5b0391f8b87e49164d40a6\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\660de9dfbb5b0391f8b87e49164d40a6\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\86e9641309b12cbbcdbad5b73ec59155\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\86e9641309b12cbbcdbad5b73ec59155\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\df47e1a16950a319e8d7a5330dad01e2\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\df47e1a16950a319e8d7a5330dad01e2\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\0c35e3cbc00afd7d809db69b7ab27e78\transformed\activity-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.7.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\0c35e3cbc00afd7d809db69b7ab27e78\transformed\activity-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\98c1e25957a9fac560e6ea341ecab0cf\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\98c1e25957a9fac560e6ea341ecab0cf\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\1f570618cad5eb398ce3613ec82b4093\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\1f570618cad5eb398ce3613ec82b4093\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\72d2bc2a5c489fe079223cbb07807c1f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\72d2bc2a5c489fe079223cbb07807c1f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\b1137aef53c91690241c3f7b4682f498\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\b1137aef53c91690241c3f7b4682f498\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\c0138bc7317894d0de176b51411097da\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\c0138bc7317894d0de176b51411097da\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\490c3b2569760da3d215ce470d5c02af\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\490c3b2569760da3d215ce470d5c02af\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\7276c56258c5facf2d7c8caa3abeed3b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\7276c56258c5facf2d7c8caa3abeed3b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\47b62bc0f77bd5e831fbd70829b5d826\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\47b62bc0f77bd5e831fbd70829b5d826\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\35d6210ef098b34bdf7784c5d17f7c16\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\35d6210ef098b34bdf7784c5d17f7c16\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\6ce36b33a146adf8efabe4fe275369b9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\6ce36b33a146adf8efabe4fe275369b9\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8eb05e8261aedd25dbbb0aa3cd22317e\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8eb05e8261aedd25dbbb0aa3cd22317e\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8523e9a377505c5315fe0fa90ad03d08\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8523e9a377505c5315fe0fa90ad03d08\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\cff078b143cb48fb0612ea3247ef4461\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\cff078b143cb48fb0612ea3247ef4461\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\36809f5431df3dc58ae43f936b6cea5b\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\36809f5431df3dc58ae43f936b6cea5b\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\5fe503ab4aa6fba6ce9b6522dc3703ec\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\5fe503ab4aa6fba6ce9b6522dc3703ec\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\3490bc5f0cda03bc05b763d2c7acc76b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\3490bc5f0cda03bc05b763d2c7acc76b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\e1dc562589a7e7b23f9ce7452fe34dac\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\e1dc562589a7e7b23f9ce7452fe34dac\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\4263cdeeed8ab8b71b55ab55b65a3ab6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\4263cdeeed8ab8b71b55ab55b65a3ab6\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\eb2517c4ba28fe75172c7e7063794b4d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\eb2517c4ba28fe75172c7e7063794b4d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\2c6e846510d573242e9b80cdd3e2d664\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\2c6e846510d573242e9b80cdd3e2d664\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8fac4a24cb45172d4116345c219d8c87\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\8fac4a24cb45172d4116345c219d8c87\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ITU\devmob\S3\cycledevie\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\eb2517c4ba28fe75172c7e7063794b4d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\eb2517c4ba28fe75172c7e7063794b4d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\70f10b030da4ba616f410e38c41e31ed\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#mg.itu.cycledevie.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#mg.itu.cycledevie.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\74beddefbaa3c34db6096957a426417d\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\a7bd262764c3476346955f13eb3726b7\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Fy-Tahiana\.gradle\caches\9.6.0\transforms\89306b164f8e9204ada43f19a104e560\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

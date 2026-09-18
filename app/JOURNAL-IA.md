@@ -1,0 +1,3 @@
+- Ligne désignée : MainActivity.kt:29, la seule de notre paquet dans la stack, l'IA vise juste.
+- Cause : findViewById renvoie null, vrai mais incomplet : l'IA dit « bouton absent du XML », or activity_main.xml le contient, nommé btnPartager avec un r.
+- Verdict : je nuance, et je corrige l'IA : c'est une faute de frappe dans le code (btnPartage => btnPartager), pas un bouton à créer dans le layout
