@@ -1,0 +1,1 @@
+Dépôt unique des mini-TPs du module (S3 à S7). S3/cycledevie = cycle de vie + Intent de partage. S4/MiniTP4_CarteProduit = Compose : état, remember, recomposition (form S4). Journaux IA : fichiers JOURNAL-IA.md dans chaque projet.
