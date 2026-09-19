@@ -1,3 +1,3 @@
-- L'IA propose : routes typées (type-safe), passage par un ViewModel, transitions animées, remarques justes mais hors du périmètre de l'exercice.
-- Je les écarte : la séance vise la mécanique manuelle route/argument/backstack ; le ViewModel est le sujet de la séance 6 et la liste statique est la source de vérité.
-- Je retiens sa validation : toIntOrNull + « if (produit != null) » absorbent un id invalid, l'IA confirme la robustesse au lieu de la corriger.
+- Remarque la plus pertinente : gérer explicitement le cas « produit introuvable ». Je la reconnais mais garde le design de l'exercice — if (produit != null) ne plante pas ; l'écran d'erreur serait une fonctionnalité hors sujet.
+- La moins pertinente ICI : « passez par un ViewModel ». Vraie, mais c'est le sujet de la séance 6, dans trente minutes — le calendrier du module a répondu à l'IA avant moi.
+- Je garde aussi sa validation : popBackStack() est le bon geste (navigate("liste") empilerait une deuxième entrée) — l'IA confirme le schéma au lieu de le corriger, et ses 10 remarques se trient en 2 à retenir, 8 à classer « plus tard ».
