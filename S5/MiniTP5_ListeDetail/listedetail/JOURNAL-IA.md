@@ -1,3 +1,3 @@
 - Remarque la plus pertinente : gérer explicitement le cas « produit introuvable ». Je la reconnais mais garde le design de l'exercice — if (produit != null) ne plante pas ; l'écran d'erreur serait une fonctionnalité hors sujet.
-- La moins pertinente ICI : « passez par un ViewModel ». Vraie, mais c'est le sujet de la séance 6, dans trente minutes — le calendrier du module a répondu à l'IA avant moi.
-- Je garde aussi sa validation : popBackStack() est le bon geste (navigate("liste") empilerait une deuxième entrée) — l'IA confirme le schéma au lieu de le corriger, et ses 10 remarques se trient en 2 à retenir, 8 à classer « plus tard ».
+- La moins pertinente ICI : « passez par un ViewModel ». Vraie, mais c'est le sujet de la séance 6, dans trente minutes, le calendrier du module a répondu à l'IA avant moi.
+- Je garde aussi sa validation : popBackStack() est le bon geste (navigate("liste") empilerait une deuxième entrée), l'IA confirme le schéma au lieu de le corriger, et ses 10 remarques se trient en 2 à retenir, 8 à classer « plus tard ».
