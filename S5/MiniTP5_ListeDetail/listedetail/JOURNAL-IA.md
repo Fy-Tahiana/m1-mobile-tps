@@ -1,0 +1,3 @@
+- L'IA propose : routes typées (type-safe), passage par un ViewModel, transitions animées, remarques justes mais hors du périmètre de l'exercice.
+- Je les écarte : la séance vise la mécanique manuelle route/argument/backstack ; le ViewModel est le sujet de la séance 6 et la liste statique est la source de vérité.
+- Je retiens sa validation : toIntOrNull + « if (produit != null) » absorbent un id invalid, l'IA confirme la robustesse au lieu de la corriger.
