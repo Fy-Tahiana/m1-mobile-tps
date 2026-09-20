@@ -1,0 +1,3 @@
+- 12 remarques ; aucune à appliquer : 5 sont des confirmations que l'IA a lues en vrai — encapsulation MutableStateFlow/StateFlow, UDF, immuabilité d'EtatUi, atomicité de update/copy, ViewModel sans dépendance UI. Sur un exercice, ce bilan idiomatique est exactement la validation visée.
+- Écartée, « vraie mais hors périmètre » : la validation de poidsKg (refuser un négatif) — le seul appel de l'app est un bouton « 1 kg » positif ; protéger un invariant que l'interface ne peut pas violer, c'est du code mort.
+- Écartées aussi : repository / injection pour faire venir produits — l'IA le dit elle-même, « pour une vraie application » ; ici la liste de cinq produits est la source de vérité pédagogique, et la séance 7 s'occupera de la vraie persistance.
